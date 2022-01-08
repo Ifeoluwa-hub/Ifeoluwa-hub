@@ -7,7 +7,7 @@ I have a passion for analyzing patterns in complex datasets, interpreting trends
 You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 
 
-Skills: SQL/ PYTHON / PowerBI / GIT 
+### Skills: SQL/PYTHON/PowerBI/GIT 
 
 - 🔭 I’m currently working on a Bank Statement Analysis Engine 
 - 🌱 I’m currently learning Data Structures and Algorithm, Machine Learning Fundamentals, Advanced DAX in PowerBI 
