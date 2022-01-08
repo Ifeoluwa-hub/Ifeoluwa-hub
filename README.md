@@ -7,7 +7,7 @@ My name is Osasona Ifeoluwa and I'm an Emerging Data/BI Professional with compet
 I have a passion for analyzing patterns in complex datasets, interpreting trends, and creating value from data which aids informed decisions and solve business problems.
 You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 
-## Skills and Experience
+### Skills and Experience
 
 * 👩‍💻 Python
 * 📈 PowerBI
