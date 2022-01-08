@@ -1,7 +1,7 @@
 ![Data Science and Business Intelligence](https://github.com/Ifeoluwa-hub/Ifeoluwa-hub/blob/main/Teal%20Green%20Cyber%20Neon%20Gaming%20Livestream%20Twitch%20Banner.jpg)
 
 # Hi there 👋, I'm Ifeoluwa
-#### Data Science and Business Intelligence
+#### Data Scientist and Business Intelligence Analyst
 
 My name is Osasona Ifeoluwa and I'm an Emerging Data/BI Professional with competencies in Data Science, Analytics, and Business Intelligence.
 I have a passion for analyzing patterns in complex datasets, interpreting trends, and creating value from data which aids informed decisions and solve business problems.
