@@ -19,7 +19,7 @@ You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 - 👯 I’m looking to collaborate on Data Science Open Source Projects 
 - 📫 How to reach me: osasonaifeoluwa1103@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: When I am not 'Data Sciencing', I am either reading a book or watching crime or medical docuseries
+- ⚡ Fun fact: When I am not 'Data Sciencing', I am either reading a book or watching a crime or medical docuseries
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ifeoluwa-hub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ifeoluwa-osasona//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://osasonaifeoluwa.medium.com/)  
