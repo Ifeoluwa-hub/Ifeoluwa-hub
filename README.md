@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Ifeoluwa
 #### Data Scientist and Business Intelligence Analyst
 
-My name is Osasona Ifeoluwa and I'm an Emerging Data/BI Professional with competencies in Data Science, Analytics, and Business Intelligence.
+My name is Osasona Ifeoluwa and I'm a Data Professional with competencies in Data Science, Analytics, and Business Intelligence.
 I have a passion for analyzing patterns in complex datasets, interpreting trends, and creating value from data which aids informed decisions and solve business problems.
 You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 
@@ -12,12 +12,12 @@ You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 * 👩‍💻 Python
 * 📈 PowerBI
 * ⚛ SQL
-* 💻 Git
+* 💻 Version Control
+* 👩‍💻 Apache Tika
 
-- 🔭 I’m currently working on a Bank Statement Analysis Engine 
-- 🌱 I’m currently learning Data Structures and Algorithm, Machine Learning Fundamentals, Advanced DAX in PowerBI 
-- 👯 I’m looking to collaborate on Data Science Projects 
-- 🤔 I’m looking for help with Mentorship and Volunteer Opportunities in Tech 
+- 🔭 I’m currently working on a PDF Parser leveraging Apache Tika, a content detection and analysis framework 
+- 🌱 I’m currently learning Data Structures and Algorithm, Azure Fundamentals
+- 👯 I’m looking to collaborate on Data Science Open Source Projects 
 - 📫 How to reach me: osasonaifeoluwa1103@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am an Ardent Reader 
