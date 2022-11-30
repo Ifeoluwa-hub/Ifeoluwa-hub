@@ -1,4 +1,4 @@
-![Data Science and Business Intelligence](https://github.com/Ifeoluwa-hub/Ifeoluwa-hub/blob/main/Teal%20Green%20Cyber%20Neon%20Gaming%20Livestream%20Twitch%20Banner.jpg)
+![Data Science and Business Intelligence]
 
 # Hi there 👋, I'm Ifeoluwa
 #### Data Scientist and Business Intelligence Analyst
