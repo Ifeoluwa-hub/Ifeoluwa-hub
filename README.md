@@ -1,4 +1,3 @@
-![Data Science and Business Intelligence]
 
 # Hi there 👋, I'm Ifeoluwa
 #### Data Scientist and Business Intelligence Analyst
