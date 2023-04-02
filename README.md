@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Ifeoluwa
-#### Data Scientist and Business Intelligence Analyst
+#### Data Scientist
 
 My name is Osasona Ifeoluwa and I'm a Data Professional with a data-driven and technology-focused approach to developing solutions that aids better decision making.
 You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
