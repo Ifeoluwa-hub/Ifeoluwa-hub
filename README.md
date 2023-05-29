@@ -7,11 +7,11 @@ You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 
 ### Skills and Experience
 
-* 👩‍💻 Python
-* 📈 PowerBI
-* ⚛ SQL
+* 👩‍💻 Programming Languages (Python, SQL)
+* 📈 Data Visualization (PowerBI, Tableau)
+* ⚛ Machine Learning
 * 💻 Version Control
-* 👩‍💻 Apache Tika
+* 👩‍💻 Technical Writing
 
 - 🔭 I’m currently working on a PDF Parser leveraging Apache Tika, a content detection and analysis framework 
 - 🌱 I’m currently learning Data Structures and Algorithm, Azure Fundamentals
