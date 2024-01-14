@@ -12,8 +12,7 @@ You can check out my LinkedIn at: https://www.linkedin.com/in/ifeoluwa-osasona/
 * ⚛ Machine Learning
 * 💻 Version Control
 * 👩‍💻 Technical Writing
-
-- 🔭 I’m currently working on a PDF Parser leveraging Apache Tika, a content detection and analysis framework 
+ 
 - 🌱 I’m currently learning Data Structures and Algorithm, Machine Learning Engineering
 - 👯 I’m looking to collaborate on Data Science Open Source Projects 
 - 📫 How to reach me: osasonaifeoluwa1103@gmail.com 
